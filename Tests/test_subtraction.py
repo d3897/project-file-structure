@@ -1,4 +1,4 @@
-import subtraction
+import Functions.subtraction as subtraction
 
 def test_subtraction():
     # Assert

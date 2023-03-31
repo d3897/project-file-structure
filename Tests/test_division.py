@@ -1,4 +1,4 @@
-import division
+import Functions.division as division
 
 def test_division():
     assert division.perform_operation(10, 5) == 2
